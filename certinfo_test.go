@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/smallstep/cli/pkg/x509"
+	"github.com/RTradeLtd/ca-cli/pkg/x509"
 )
 
 type InputType int

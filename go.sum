@@ -1,3 +1,5 @@
+github.com/RTradeLtd/ca-cli v0.13.3 h1:r0jrYwVrg1xGphKjJ+0W2oCw3RjcdRde9V+ctlPDCf0=
+github.com/RTradeLtd/ca-cli v0.13.3/go.mod h1:u8KFv0XA+j7owKA9q2uZVA0EhX0JUvW5+7cradNbpjc=
 github.com/google/certificate-transparency-go v1.0.21 h1:Yf1aXowfZ2nuboBsg7iYGLmwsOARdV86pfH3g95wXmE=
 github.com/google/certificate-transparency-go v1.0.21/go.mod h1:QeJfpSbVSfYc7RgB3gJFj9cbuQMMchQxrWXz8Ruopmg=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=

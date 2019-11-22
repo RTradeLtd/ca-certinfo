@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/smallstep/cli/pkg/x509"
+	"github.com/RTradeLtd/ca-cli/pkg/x509"
 	"golang.org/x/crypto/ed25519"
 )
 

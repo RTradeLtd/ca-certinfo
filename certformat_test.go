@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/smallstep/cli/pkg/x509"
+	"github.com/RTradeLtd/ca-cli/pkg/x509"
 )
 
 func Test_newCertificateShort(t *testing.T) {

@@ -1,8 +1,9 @@
-module github.com/smallstep/certinfo
+module github.com/RTradeLtd/ca-certinfo
 
 go 1.13
 
 require (
+	github.com/RTradeLtd/ca-cli v0.13.3
 	github.com/google/certificate-transparency-go v1.0.21
 	github.com/pkg/errors v0.8.1
 	github.com/smallstep/cli v0.13.3

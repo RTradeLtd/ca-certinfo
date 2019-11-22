@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/smallstep/cli/pkg/x509"
+	"github.com/RTradeLtd/ca-cli/pkg/x509"
 	"golang.org/x/crypto/ed25519"
 
 	ct "github.com/google/certificate-transparency-go"
